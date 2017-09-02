@@ -13,6 +13,7 @@
 		200CC26E1F5B4B3B003EB584 /* PhotoGallery.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 200CC26C1F5B4B3B003EB584 /* PhotoGallery.xcdatamodeld */; };
 		200CC2701F5B4B3B003EB584 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 200CC26F1F5B4B3B003EB584 /* Assets.xcassets */; };
 		200CC2731F5B4B3B003EB584 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 200CC2711F5B4B3B003EB584 /* LaunchScreen.storyboard */; };
+		200CC27B1F5B4D89003EB584 /* PhotoGalleryCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200CC27A1F5B4D89003EB584 /* PhotoGalleryCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		200CC26F1F5B4B3B003EB584 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		200CC2721F5B4B3B003EB584 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		200CC2741F5B4B3B003EB584 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		200CC27A1F5B4D89003EB584 /* PhotoGalleryCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoGalleryCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				200CC2651F5B4B3B003EB584 /* AppDelegate.swift */,
 				200CC2671F5B4B3B003EB584 /* ViewController.swift */,
 				200CC2691F5B4B3B003EB584 /* Main.storyboard */,
+				200CC27A1F5B4D89003EB584 /* PhotoGalleryCollectionViewCell.swift */,
 				200CC26F1F5B4B3B003EB584 /* Assets.xcassets */,
 				200CC2711F5B4B3B003EB584 /* LaunchScreen.storyboard */,
 				200CC2741F5B4B3B003EB584 /* Info.plist */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				200CC27B1F5B4D89003EB584 /* PhotoGalleryCollectionViewCell.swift in Sources */,
 				200CC26E1F5B4B3B003EB584 /* PhotoGallery.xcdatamodeld in Sources */,
 				200CC2681F5B4B3B003EB584 /* ViewController.swift in Sources */,
 				200CC2661F5B4B3B003EB584 /* AppDelegate.swift in Sources */,
